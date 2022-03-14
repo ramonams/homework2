@@ -1,0 +1,36 @@
+h1 {
+  color: white;
+  text-shadow: 1px 1px 2px yellow, 0 0 25px orange, 0 0 5px red;
+}
+
+
+
+.button{
+    text-decoration: none;
+}
+
+.red{
+    color: red;
+    font-family: cursive;
+
+}
+
+.purple{
+    color:purple;
+    font-familiy: Arial, Helvetica, sans-serif;
+    font-size: 18px;
+}
+
+.orange{
+    color:orange;
+    font-family: "Lucida Console", "Courier New", monospace;
+}
+
+.green{
+    color:green;
+    font-family:"Times New Roman", Times, serif;
+    font-size: 20px;
+
+}
+
+
